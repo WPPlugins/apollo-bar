@@ -1,0 +1,112 @@
+.apb-pusher {
+	height: 44px;
+	position: relative;
+	overflow: hidden;
+}
+
+#apollo-bar {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 10000;
+	margin: 0;
+	padding: 0;
+
+	-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+	border-bottom: 3px solid #fff;
+	background: #ca5f29;
+}
+
+#apollo-bar.fixed {
+	position: fixed;
+}
+
+#apollo-bar .apb-wrapper {
+	width: 75%;
+	color: #fff;
+	margin: 0 auto;
+	padding: 10px 0;
+}
+
+#apollo-bar .apb-close {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif !important;
+	font-weight: bold;
+	font-size: 13px;
+	line-height: normal;
+	color: #fff;
+	padding: 0px 6px 2px 6px;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
+	border: none;
+}
+
+#apollo-bar .apb-close:hover {
+	border-radius: 10px;
+	background: rgba(0,0,0,.3);
+}
+
+#apollo-bar .apb-message a:link,#apollo-bar .apb-message a:active,#apollo-bar .apb-message a:visited {
+	color: #fff;
+	text-decoration: underline;
+}
+
+#apollo-bar .apb-message a:hover {
+	text-decoration: none;
+}
+
+#apollo-bar .apb-message div {
+	display: none;
+}
+
+#apollo-bar .apb-message p {
+	margin: 0;
+	padding: 0;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	color: #fff;
+	line-height: 150%;
+	font-size: 14px;
+	text-align: center;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
+}
+
+div#promo {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 24px;
+	height: 24px;
+	overflow: hidden;
+	margin: 8px;
+	float: left;
+}
+
+.object {
+	position: absolute;
+
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out; /** Chrome & Safari **/
+/** Firefox **/
+/** Opera **/
+}
+
+.rocket {
+	top: 0;
+	left: 0;
+}
+
+#promo:hover .move-up {
+	-webkit-transform: translate(0,-50px);
+	-moz-transform: translate(0,-50px);
+	-o-transform: translate(0,-50px);
+	-ms-transform: translate(0,-50px);
+	transform: translate(0,-50px);
+}

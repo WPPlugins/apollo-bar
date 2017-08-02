@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apollo Bar 1.0\n"
+"POT-Creation-Date: 2012-11-09 15:01+0900\n"
+"PO-Revision-Date: 2012-11-09 17:52+0900\n"
+"Last-Translator: Roomshare Japan <siteadmin@roomshare.jp>\n"
+"Language-Team: Akky AKIMOTO <my surname at gmail>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\\.\n"
+
+#: ..\./apollo-bar.php:56
+msgid "Announcements"
+msgstr "アナウンス"
+
+#: ..\./apollo-bar.php:57 ..\./apollo-bar.php:72
+msgid "Announcement"
+msgstr "アナウンス"
+
+#: ..\./apollo-bar.php:58
+msgid "Add New"
+msgstr "新規追加"
+
+#: ..\./apollo-bar.php:59
+msgid "Add New Announcement"
+msgstr "新規アナウンス追加"
+
+#: ..\./apollo-bar.php:60
+msgid "All items"
+msgstr "アナウンス一覧"
+
+#: ..\./apollo-bar.php:61
+msgid "Edit Announcement"
+msgstr "アナウンスの編集"
+
+#: ..\./apollo-bar.php:62
+msgid "New Announcement"
+msgstr "新規アナウンス"
+
+#: ..\./apollo-bar.php:63
+msgid "View Announcement"
+msgstr "アナウンスを見る"
+
+#: ..\./apollo-bar.php:64
+msgid "Search Announcements"
+msgstr "アナウンスの検索"
+
+#: ..\./apollo-bar.php:65
+msgid "No Announcements found"
+msgstr "アナウンスは見つかりませんでした"
+
+#: ..\./apollo-bar.php:66
+msgid "No Announcements found in Trash"
+msgstr "ゴミ箱にアナウンスはありません"
+
+#: ..\./apollo-bar.php:68
+msgid "Apollo Bar"
+msgstr "Apollo Bar"
+
+#: ..\./apollo-bar.php:111
+msgid "Scheduling"
+msgstr "スケジュール"
+
+#: ..\./apollo-bar.php:123
+msgid "Start date"
+msgstr "開始日"
+
+#: ..\./apollo-bar.php:127
+msgid "End date"
+msgstr "終了日"
+
+#: ..\./apollo-bar.php:238
+msgid "Download Apollo Bar"
+msgstr "Apollo Barの入手"
+
+#: ..\./apollo-bar.php:241
+msgid "x"
+msgstr "x"
+
+#: ..\./includes/apollo-bar-options.php:10
+msgid "Apollo Bar Options"
+msgstr "Apollo Barオプション"
+
+#: ..\./includes/apollo-bar-options.php:11
+msgid ""
+"The Apollo Bar is a simple notification plugin. This is a settings page. "
+"Setup the plugin color and other options. To add a notification text, go to "
+"Apollo Bar (custom post type) menu and create a new post, setup the "
+"Scheduling options and publish."
+msgstr ""
+"Apollo Bar(アポロバー)は簡単な通知のプラグインです。これは設定ページです。色"
+"やその他のオプションを設定してください。アナウンスの文面は、(カスタム・ポス"
+"ト・タイプ)のApollo Barメニューから新規投稿として作成し、スケジュールオプショ"
+"ンを指定して公開してください。"
+
+#: ..\./includes/apollo-bar-options.php:18
+msgid "General Settings"
+msgstr "一般設定"
+
+#: ..\./includes/apollo-bar-options.php:22
+msgid "Enable Apollo Bar?"
+msgstr "Apollo Barを有効にする?"
+
+#: ..\./includes/apollo-bar-options.php:30
+msgid "Enable Apollo Bar Logo?"
+msgstr "Apollo Barロゴを有効にする?"
+
+#: ..\./includes/apollo-bar-options.php:38
+msgid "Color Settings"
+msgstr "色の設定"
+
+#: ..\./includes/apollo-bar-options.php:42
+msgid "Chose a color skin"
+msgstr "色を選択"
+
+#: ..\./includes/apollo-bar-options.php:59
+msgid "Save"
+msgstr "保存"
+
+#: ..\./includes/apollo-bar-options.php:65
+msgid "Donate"
+msgstr "寄付"
+
+#: ..\./includes/apollo-bar-options.php:66
+msgid ""
+"Want to help make this plugin even better? All donations are used to improve "
+"this plugin. Thanks! Donors enter their own contribution amount."
+msgstr ""
+"プラグインの改良をサポートしませんか? すべての寄付はこのプラグインの改善に充"
+"てられます。ありがとうございます!"
+
+#: ..\./includes/apollo-bar-options.php:73
+msgid "Or"
+msgstr "または"
+
+#: ..\./includes/apollo-bar-options.php:75
+msgid "Vote for the plugin on Wordpress.org."
+msgstr "Wordpress.orgでプラグインに投票してください。"
+
+#: ..\./includes/apollo-bar-options.php:76
+msgid "Please refer to the side of plugin on your blog."
+msgstr "あなたのブログのサイドバーで紹介してください。"
+
+#: ..\./includes/apollo-bar-options.php:80
+msgid "CodeArt"
+msgstr "CodeArt"
+
+#: ..\./includes/apollo-bar-options.php:82
+msgid "Fallow us on Twitter"
+msgstr "ツイッターでフォロー"
+
+#: ..\./includes/apollo-bar-options.php:83
+msgid "Fallow us on Google+"
+msgstr "Google+でフォロー"
+
+#: ..\./includes/apollo-bar-options.php:84
+msgid "Newsletter Subscribe"
+msgstr "ニュースレターを購読"
+
+#, fuzzy
+#~ msgid "Apollo Bar Title"
+#~ msgstr "Apollo Bar"
